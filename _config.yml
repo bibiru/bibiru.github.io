@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               bibiru
+tagline:             unsystematic, arbitrary, unmethodical, haphazard, unarranged, unplanned, undirected, casual, indiscriminate, non-specific, stray, erratic; chance, accidental, hit-and-miss; serendipitous, fortuitous, contingent, adventitious; non-linear, entropic, fractal; rarealeatory, stochastic
 url:                 http://bibiru.github.io/
 paginate:            1
 baseurl:             ""
